@@ -3,8 +3,8 @@
 
 ## Team Members:
 * Caden Milne: CJM295@Pitt.edu, "Arrests by Neighborhood"
-* Ryan Cummings: RJC132@Pitt.edu, "Population by Neighborhood"
-* César Guerra-Solano: CEG108@pitt.edu, "Trees by Neighborhood"
+* Ryan Cummings: RJC132@Pitt.edu, "Trees by Neighborhood"
+* César Guerra-Solano: CEG108@pitt.edu, "Population by Neighborhood"
 
 ## Canvas Group:
 Final Project Group 17
